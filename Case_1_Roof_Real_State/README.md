@@ -1,7 +1,7 @@
 
 # Case 1 - Roof Real State
 
-Data analyses about real state in King County - Washington USA
+Data analyses about real state at County King - Washington USA
 
 The case was the fist chalenge of DEX - Data Expert Course from "Escola DNC"
 
