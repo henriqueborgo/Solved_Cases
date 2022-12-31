@@ -11,7 +11,7 @@ Data analyses about USA Walmart Stores.
 
 ## Task
 
-To carry out an information survey about the revenue of the stores in USA and point wich store would be better to expand the size.
+To carry out an information survey about the revenue of the stores in USA and point which store would be better to expand the size.
 ## Referência
 
  - [Dataset](https://www.kaggle.com/yasserh/walmart-dataset)
