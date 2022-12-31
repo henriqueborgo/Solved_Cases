@@ -58,16 +58,19 @@ In the year 2021, it made a profit of $13.51 Billion. Being one of the main reta
 For this step were used the following technics:
 
 - Filtering and sorting
+
 Converted the 'Date' from object to datetime.
 Converted the 'Holiday_Flag' and 'Store' from int64 to category.
 Removed the scienctific notation of the 'Weekly_Sales column'. 
 Modified the date to %Y-%M format.
 
 - Detection of outliers
+
 Dropped 10/Jan and 12/Nov/Dez data (low grouped sales in month - outlier).
 Dropped Stores 3, 5, 30, 33, 36, 37, 38, 42, 43, 44 (low weekly sales - no high outliers).
 
 - Data visualization
+
 Created a dataframe with the top 10 stores.
 Created a bar plot with historic store month sales (top 10 stores).
 Created a bar plot with historic store month sales (without top 10 stores).
